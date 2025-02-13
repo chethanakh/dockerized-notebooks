@@ -12,7 +12,6 @@ A simple setup to run Jupyter Notebook using Docker and Docker Compose, with a `
 
 ## Prerequisites
 - [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
 - `make` (installed by default on most Linux/Mac systems; on Windows, use WSL or install manually)
 
 ---
