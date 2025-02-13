@@ -20,7 +20,7 @@ A simple setup to run Jupyter Notebook using Docker and Docker Compose, with a `
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:chethanakh/dockerized-notebooks.git
 cd <repository-folder>
 ```
 
