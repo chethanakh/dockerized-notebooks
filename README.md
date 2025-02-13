@@ -12,7 +12,6 @@ A simple setup to run Jupyter Notebook using Docker and Docker Compose, with a `
 
 ## Prerequisites
 - [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
 - `make` (installed by default on most Linux/Mac systems; on Windows, use WSL or install manually)
 
 ---
@@ -21,7 +20,7 @@ A simple setup to run Jupyter Notebook using Docker and Docker Compose, with a `
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:chethanakh/dockerized-notebooks.git
 cd <repository-folder>
 ```
 
